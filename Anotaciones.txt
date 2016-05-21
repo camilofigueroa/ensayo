@@ -1,0 +1,4 @@
+
+
+
+Este archivo va a ser creado para notas, pero esencialmente en su primer momento de vida se trara de afectar la rama master del GutHub ensayo.
