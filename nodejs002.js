@@ -2,6 +2,7 @@
 /**
  * Autor: Camilo Figueroa
  * 20/05/2016
+ * En esta versión ya se dejará de lado la utilización de un servidor básico y pasaremos a algo más complicado.
  */
 
 /*Esta línea funcionó perfecto, hay que recordar que al compilar o al ejecutar se realiza con el comando básico
